@@ -571,11 +571,11 @@ ul#nav li.current a { color: #00E2E9; }
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #fff;
-   padding-top: 96px;
+   background:#fff;
+   padding-top: 120px;
    padding-bottom: 102px;
-   color: #333333
-   ;
+   color: #333333;
+
 }
 
 #contact h1:before {
@@ -587,6 +587,7 @@ ul#nav li.current a { color: #00E2E9; }
    text-align: left;
    float: left;
    color: #0F46D3;
+
 }
 
 /* ------------------------------------------------------------------ */
