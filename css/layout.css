@@ -271,6 +271,11 @@ ul#nav li.current a { color: #00E2E9; }
 /*----------------------------------------------*/
 
 
+.icon-img {
+   height: 40px;
+   width: 40px;
+   
+}
 .bars {
 	width: 95%;
 	float: left;
@@ -281,6 +286,7 @@ ul#nav li.current a { color: #00E2E9; }
   	margin-top: 36px;
    list-style: none;
 }
+
 .bars li {
    position: relative;
   	margin-bottom: 60px;
@@ -295,7 +301,7 @@ ul#nav li.current a { color: #00E2E9; }
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
-	top: -36px;
+	top: -50px;
 }
 .bar-expand {
    position: absolute;
@@ -569,6 +575,14 @@ ul#nav li.current a { color: #00E2E9; }
 /* ------------------------------------------------------------------ */
 /* h. Contact Section
 /* ------------------------------------------------------------------ */
+.contact-form input, textarea {
+   width: 80%;
+}
+
+#button-submit {
+   background: #0F46D3
+
+}
 
 #contact {
    background:#fff;
@@ -675,7 +689,7 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: #525252; }
 
 
 
